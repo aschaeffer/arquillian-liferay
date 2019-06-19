@@ -14,7 +14,7 @@
 
 package com.liferay.arquillian.test;
 
-import com.liferay.arquillian.containter.remote.enricher.Inject;
+import com.liferay.arquillian.container.remote.enricher.Inject;
 import com.liferay.arquillian.sample.service4injection.Service;
 import com.liferay.arquillian.sample.service4injection.ServiceFirstImpl;
 import com.liferay.arquillian.sample.service4injection.ServiceSecondImpl;

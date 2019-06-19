@@ -14,7 +14,7 @@
 
 package com.liferay.arquillian.test;
 
-import com.liferay.arquillian.containter.remote.enricher.Inject;
+import com.liferay.arquillian.container.remote.enricher.Inject;
 import com.liferay.arquillian.sample.service.SampleService;
 import com.liferay.portal.kernel.exception.PortalException;
 import com.liferay.shrinkwrap.osgi.api.BndProjectBuilder;
